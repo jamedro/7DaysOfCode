@@ -1,4 +1,5 @@
 
+
 let numeroAdivinar = 9
 let numeroSugerido = prompt("Hola buenas, favor ingrese un numero del 1 al 10")
 let intentos = 0
