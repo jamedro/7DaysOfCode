@@ -1,6 +1,6 @@
 
 let numeroUn = 1;
-let stringUn = ;'1';
+let stringUn = '1';
 console.log(numeroUn + stringUn);
 // Output: 11
 let numeroTreinta = 30;
