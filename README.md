@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install react```
+
+Continuamos con la ruta de aprendizaje, ahora con el día 4
