@@ -1,4 +1,4 @@
-
+// Version: 1.0
 let nombre = prompt("Ingrese su nombre");
 let edad = prompt("Ingrese su edad");
 let estudios = prompt("Ingrese que lenguaje de programación estudia actualmente");
